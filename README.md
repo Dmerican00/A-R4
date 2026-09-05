@@ -27,8 +27,8 @@ Simple, first-step projects focused on basic I/O and core programming concepts.
 - **Button to LED**: Read a button and control an LED.
 - **Serial Hello**: Send messages to the Serial Monitor for debugging.
 
-### Adept (Intermediate)
-Intermediate projects combining sensors, displays, and structured logic.
+### Adept
+Intermediate-level projects combining sensors, displays, and structured logic.
 
 - **Temperature Monitor**: Read a sensor and print values over Serial.
 - **Mini Weather Display**: Show sensor values on a small display.
